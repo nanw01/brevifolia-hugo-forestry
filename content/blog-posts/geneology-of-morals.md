@@ -1,5 +1,5 @@
 ---
-title: Hello Hugo+Forestry+Netlify
+title: 忧伤的时候到厨房去
 date: 2019-08-16T19:15:34.000+00:00
 type: blog
 author: Friedrich Nietzsche
