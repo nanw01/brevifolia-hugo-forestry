@@ -1,25 +1,85 @@
 ---
-title: On the Genealogy of Morals
-date: 2019-08-16T19:15:34+00:00
+title: Hello Hugo+Forestry+Netlify
+date: 2019-08-16T19:15:34.000+00:00
 type: blog
 author: Friedrich Nietzsche
-hero: "/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
+hero: "/images/255.jpg"
 
 ---
-So all respect to the good spirits that may govern in these historians of morality! But it's certainly a pity that they lack the historical spirit itself, that they've been left in the lurch by all the good spirits of history! Collectively they all think essentially unhistorically, in the traditional manner of philosophers. Of that there is no doubt. The incompetence of their genealogies of morals reveals itself at the very beginning, where the issue is to determine the origin of the idea and of the judgment "good."
+一
 
-"People," so they proclaim, "originally praised unegoistic actions and called them good from the perspective of those for whom they were done, that is, those for whom such actions were useful. Later people forgot how this praise began, and because unegoistic actions had, according to custom, always been praised as good, people then simply felt them as good, as if they were something inherently good."
+像每天早上那样，莉莉亚一迈出自己的房门扭头向右看，便知道有什么事情不 对。即使阿尔尼花了很长时间把自己的屋子收拾得井然有序，上班前还要锁上屋 门，以免妻子弄乱房间，他还是从来没有意识到自己总是把门口的基里姆地毯放偏 到了左边。也许是莉莉亚每天早上在他上班离开后，总会用木屐拖鞋的鞋尖把地毯 拖正的缘故吧。
 
-# "What, from an etymological perspective, do the meanings of "Good" as manifested in different languages really mean?"
+他们的婚姻已经维系了三十多年，近几年来，他们都意识到，最明智的做法是 各有各的房间，这样他们便可以既同住一个屋檐下，又不干涉彼此的生活。唯一能 证明他们曾经相爱过的，是阿尔尼每天下班回来在莉莉亚嘴唇上那轻轻的、优雅 的、低调的一吻。而后接下来的几十分钟里，他们通常会坐在厨房中央案台周围的 凳子上，吃莉莉亚准备好的美味晚餐，同时看看十三频道吉姆·莱勒1主持的新闻报 道。虽然莉莉亚在美国这三十七年间已经变得像个真正的美国女人了，但那暗黑的 肤色上黑碧玺般美丽的杏仁大眼，以及每餐必放生姜的习惯，仍在表明着她的菲律 宾血统。
 
-We see right away that this initial derivation already contains all the typical characteristics of the idiosyncrasies of English psychologists—we have "usefulness," "forgetting," "habit," and finally "error," all as the foundation for an evaluation in which the higher man up to this time has taken pride, as if it were a sort of privilege of men generally. This pride should be humbled, this evaluation of worth emptied of value. Has that been achieved?
+阿尔尼永远是个绅士，他总会对莉莉亚的厨艺赞美一番，而后起身刷自己的碗 筷，再告辞回自己的房间。这也就意味着，四十五分钟的进餐时间过后，莉莉亚便 又回到了自己的生活中。她要么在电脑前待一会儿，要么翻翻丈夫带回家的报纸。 电脑放在橱柜内嵌的一块空间里，那是她专门留出来给自己做书斋的地方。每天晚 上十点，她会听到艾德的脚步声，一旦这个高大的金发男人出现在厨房门口，莉莉 亚便会叮嘱他要轻一点。艾德是个五十五岁的退休警察，十年来一直住在莉莉亚他
 
-![](/images/ruslan-bardash-g83y6do219w-unsplash.jpg)
+们家的三楼。不过莉莉亚仍需要时刻提醒自己他住在这里。自从在一个商场当保安 值夜班以来，艾德形成了每天晚上同一时间下楼的习惯，而这给莉莉亚的生活又增 添了新的元素。在厨房凳子上坐上十五分钟吃完夜宵，艾德总会对带着探究神情的 莉莉亚说，他着实喜欢这些饭菜，而后，他会因为自己稍稍填补了眼前这位六十二 岁女人生活的巨大空虚而得意扬扬。
 
-Now, first of all, it's obvious to me that from this theory the origin of the idea "good" has been sought for and established in the wrong place: the judgment "good" did not move here from those to whom "goodness" was shown! It is much more that case that the "good people" themselves, that is, the noble, powerful, higher-ranking and higher-thinking people felt and set themselves and their actions up as good, that is to say, of the first rank, in contrast to everything low, low-minded, common, and vulgar. From this pathos of distance they first arrogated to themselves the right to create values, to stamp out the names for values. What did they care about usefulness!
+然而，也就仅此而已了。住在同一个屋檐下，也就只能把他们拉近到这样的地 步了。比方说，莉莉亚从来没有勇气问这个几乎已经成为自己家庭一员的男人，周 末都去了哪儿。好在她在艾德每月支付的四百美元租金里包含了膳食费，这样他们 才有交谈的引子。否则，艾德就会像只吃花生酱和果酱吐司的美国人那样，消瘦得 如同幽灵一般。
 
-# "Although the two words "bad" and "evil" both seem opposite to the same idea of "good," how different they are."
+多亏了莉莉亚生活里的这些常规琐事，那天早晨她才意识到有什么东西不对劲 儿。阿尔尼门口的基里姆小地毯——那还是和他们住过一阵子的一位土耳其女人送 的礼物——正不偏不倚地摆在原处，这只能说明阿尔尼还没离开自己的房间。即便 如此，莉莉亚擅自进入房间之前还是敲了两次门。没有人回答后，她走进房间，却 发现丈夫倒在了床右侧的地板上。他还穿着睡衣，莉莉亚无法判断他已在那里躺了 多久。她既没有尖叫也没有惊慌，而是跑到自己房间，拿起电话，打了911。在电话 那头的人询问她以了解情况的同时，她透过指尖感觉到了微弱的脉搏，这才意识到 他还活着。
 
-In relation to such a hot pouring out of the highest rank-ordering, rank-setting judgments of value, the point of view which considers utility is as foreign and inappropriate as possible. Here the feeling has reached the opposite of that low level of warmth which is a condition for that calculating shrewdness, that calculation by utility—and not just for a moment, not for an exceptional hour, but permanently. The pathos of nobility and distance, as mentioned, the lasting and domineering feeling, something total and complete, of a higher ruling nature in relation to a lower nature, to an "beneath"—that is the origin of the opposition between "god" and "bad." (The right of the master to give names extends so far that we could permit ourselves to grasp the origin of language itself as an expression of the power of the rulers: they say "that is such and such," seal every object and event with a sound and, in so doing, take possession of it.)
+不久，寂静的街区传来了救护车响亮的长鸣。此前莉莉亚一直陪着丈夫。这时 她走下楼，眼泪第一次夺眶而出。真正让她心痛的是，她想阿尔尼从床上摔下来时 可能还尽量不弄出声音来。他为什么不像其他男人那样倒下时有很大声响呢?为什 么他一定还要抓着床沿?莉莉亚确信，丈夫这样倒下一定是不想弄出声响:这该死
 
-Given this origin, the word "good" was not in any way necessarily tied up with "unegoistic" actions, as the superstitions of those genealogists of morality tell us. Rather, that occurs for the first time with the collapse of aristocratic value judgments, when this entire contrast between "egoistic" and "unegoistic" pressed itself ever more strongly into human awareness—it is, to use my own words, the instinct of the herd which, through this contrast, finally gets its word (and its words). And even so, it took a long time until this instinct in the masses became ruler, with the result that moral evaluation got downright hung up and bogged down on this opposition (as is the case, for example, in modern Europe: today the prejudice that takes "moralistic," "unegoistic," "_désintéressé_" _\[disinterested\]_ as equally valuable ideas already governs, with the force of a "fixed idea" and a disease of the brain).
+的静谧!
+
+在把门打开，让护理人员上楼后，莉莉亚含着泪朝邻居的房子看了看。没有人 出来看，连掀开点窗帘的都没有。莉莉亚不愿意承认这种事没人管，她更倾向于认 为，是邻居们都上班去了，或是送孩子去学校了。她是如何远离从前那种脾气暴躁 的生活，进入到这种平和状态的?她是如何让自己接受这种生活的?然而，她仍然 无法让自己生气:无论是对邻居，还是对她丈夫，抑或是对自己的冷淡。她的愤怒 是什么时候消失的?年轻的时候，她曾以为自己那一腔愤怒永远不会止息。在她以 前拥挤的家里，打架如同拥抱、嬉笑一样平常。他们在一起的短暂时光里，屋里回 荡着的，既有吵架声，又有笑声。派对会演变成打架，然后又变成派对，随后还会 变成醉汉聚会和愤怒的狂欢，不过总是欢乐不断。在她吵闹的家里，总会有人让人 抱怨、让人生气、让人自豪或被赶出家门，最后又会回来。
+
+然而，在阿尔尼静谧的世界里，莉莉亚的家庭不过是个马戏团:一开始很搞 笑、很有趣，一段时间后就会让人感觉太吵闹、太低俗了。有什么能比周日下午看 场棒球赛更舒服的呢?然后安安静静地吃晚餐，什么噪音也没有，只能听到银质餐 具的叮当声，或是他为数不多但充满智慧的笑话。有什么宝地能替代阿尔尼那安 全、干净、整洁的房间呢?那里满是最重要的剪报，被小心翼翼地夹在文件夹里。 有什么菲律宾民歌能像美国公共广播公司播音员那稳重、自信的声音那样带给人快 乐呢?每个圣诞夜晚餐后，妻子和她的家人们所讲的那些古老的精灵故事又怎样 呢?这些人在美国生活了那么多年，享用着各种各样的技术和医药，甚至还开着最 新型号的汽车，可是他们仍然相信树林里住着某些神秘生物这些东西。不仅如此， 他们还认为把这些故事一代一代地传下去是件好事。阿尔尼无法接受，他也绝对不 会让自己的孩子受这种无稽之谈的影响。以前他对这些年年都会讲一次的故事总是 充耳不闻，不过最终他在孩子身上培养出了对平和与安静的热爱。实际上，他做得
+
+太成功了，所以，即使儿女们很少打电话，也很少来吃饭，甚至几乎从来也不让他 们老两口照看孙子孙女，只是很偶尔地来上个把小时，他都很理解。虽然他不是亲 生父亲，他们却百分之百遗传了他的习惯。
+
+然而，莉莉亚承认，总是一个人独自待在房间，这让她心碎欲绝，但又不能朝 儿女们发火。为了两个孩子，她愿意放弃一切，做什么都可以，虽然他们并不是莉 莉亚怀胎九月所生。经过各种行政手续，她好不容易把他们从越南带到这里，花了 很多钱让他们恢复健康，让他们上最好的学校。更重要的是，她为了两个孩子放弃 了自己的生活。刚结婚不久的时候，他们住在曼哈顿，莉莉亚出众的美貌和创造力 帮助他们进入各种社会圈子，让他们成为了每个派对的座上宾。她得以在这些派对 上向一些重要人物展示自己的画作，并由此在一般人很难接近的美术馆里举办了画 展。她喜欢待在这个满是知识分子和放荡不羁的艺术家的世界里。收养孩子后，他 们搬离城市，来到这个有花园和很多房间的大房子里。这当然是阿尔尼的主意。似 乎这是理所当然的，有孩子的美国家庭都这样。除此以外，两个孩子经历了太多的 创伤，需要一个安静、稳定、平和的地方。不用阿尔尼说，莉莉亚也知道曼哈顿不 是这样的地方。于是，莉莉亚妥协了。每次都是这样。
+
+最终，他们被撇在了这个有七间卧室、四个卫生间，不知道有多少橱柜的大房 子里，而这房子原本是为两个孩子买的。莉莉亚一个人无法打扫那么大的地方，以 前请的墨西哥阿姨又总是干活不利索，以致房子里满是灰尘，而窗户上那层厚厚的 灰尘已经很难让人看清外面的花园了。现在，他们辛辛苦苦养大的孩子都不愿意把 自己的孩子带到这儿来，哪怕一个小时也不肯，都嫌这房子太脏了。
+
+对讲机里的声音把莉莉亚带回了现实。护理人员用担架把六十岁的阿尔尼抬进 救护车，莉莉亚也跟着上了车，坐在他旁边，握着他的手。伴着救护车回响在纽约
+
+郊区那空旷大街上的长鸣，他们驶向了医院。救护车内的静谧并没让莉莉亚觉得不 自在，毕竟，她已经在这种氛围中生活了很多年。
+
+同时，在早六个小时的时区，马克正要打开公寓的大门，手里还提着一个小蛋 糕盒。每周五他都会早早地离开画廊回家。走到蒙日路时他总会到马路右手边的法 式蛋糕店买两块甜点，而后便加快脚步，这样就可以更快地和爱人、相伴二十二年 的妻子克拉拉相聚了。每当他走到楼梯口的时候，总会迫不及待地去闻一闻那由自 家公寓一层的门缝散发出来的咖啡香气。多年前的一趟纽约之行中，他们发现了滴 漏式咖啡，从那以后就把欧洲人最珍爱的卡布奇诺放到了一边，转而迷恋起香草咖 啡来。
+
+他们从结婚以来就一直住在同一个公寓里。这是个一居室的房子，厨房最宽 敞。克拉拉从小就喜欢下厨，所以厨房是她待得最久的地方。可以毫不夸张地说， 厨房是这个公寓最吸引人的地方，里面摆放着鲜花、绿植和饰品，中央有一张餐 桌，角落里还有个小电视。他们的客厅俨然是一个图书馆，架子上整齐地放满了 书，他们经常挑一本坐在厨房里读。马克对此从来不抱怨什么，每天晚上乐呵呵地 跟随妻子回到卧室，闻着她身上混带着食物气息的香水味，而后睡意便来了。这份 愉悦，世界上任何东西都无法交换。
+
+刚结婚不久的时候，他们约定有孩子后就搬到大一点的公寓去。至少要有两间 卧室。他们甚至还猜测有没有可能再找个有这么大厨房的，最后他们再也没必要找 新公寓了。他们一直想要孩子，从未放弃，也从未绝望过。但后来要用药，要注射 荷尔蒙，便放弃了。朋友们建议他们收养，他们也没接受。他们从没对任何人说起 过，其实克拉拉想要的是一个小马克，而马克想要的是一个小克拉拉，收养的孩子 是不符合这种想法的。相反，他们从彼此身上找到了快乐，他们自己就像是长不大
+
+的孩子。出行的路线一年比一年长，每过一天他们也越快乐一点。克拉拉每天在厨 房忙碌着，厨艺见长，而马克则坐在角落里，躲在她的温暖中，读着自己的漫画杂 志:《流动的冰川》《哄堂大笑》《精神病患者》《波多伊》。
+
+让克拉拉教马克记住蔬菜的名字或香料的味道，那是不可能的。头两次她让马 克去农贸市场，均以失败告终。此后，她决定不再管他，把他当成自己最忠实的顾 客。她觉得马克坚持每周五从法式蛋糕店买点什么回家的行为就是孩子气的表现， 但她着实喜欢这样。每周一次，外头的一道道甜点让她沉醉不已，而自己做的却比 不上，这让她十分苦恼。她把奶油舔到嘴里，留在味蕾上，一面感受着它在鼻子后 的味道，一面琢磨着究竟自己的烘焙在哪里出了问题。
+
+旅行多年，他们去了很多国家。克拉拉带回了菜谱，而马克带回了报纸、书籍 和漫画。他们两个都忘不了在伊斯坦布尔吃到的酿甜椒。有一次他们在希腊，马克 说那里的酿甜椒和在伊斯坦布尔吃到的味道一样，克拉拉却强烈反对。虽然克拉拉 试过多次，但怎么也烹制不出那种味儿来。她仿照土耳其人做贻贝饭卷失败后，又 开始计划去土耳其的爱琴海地区度假。马克对克拉拉想要的或计划的任何事都不反 对，他喜欢让自己完全适应克拉拉的生活节奏。幸福充溢着他们那间十六平方米的 厨房，留驻在他的骨髓里。
+
+他自己的画廊就在莱茵河对岸。他在里面也很快乐。画廊里出售的是漫画家的 原作，那些漫画家出的书都是他从小就爱读的。那里什么都有:《幸运的路克》黑 白页、《高卢英雄传》素描、《丁丁历险记》黑白页。画廊曾经名噪一时，全欧洲 的漫画迷都慕名而来。实际上他赚了很多钱。即便是这样，克拉拉仍总会提到，说 自己在家做饭吃而不去饭店有多划算，马克每次听到都不免笑起来。只要他们愿 意，每天去最好的饭店吃都没问题，但是这样的建议会打击克拉拉的生活理念。至
+
+少他说服了克拉拉，不用让他带午饭去上班了。每天中午十二点，他会锁上画廊大 门，匆匆吃上一口，然后跑去自己最喜欢的漫画店。他会关注每一本新书、每一位 新漫画家。去纽约旅行的时候，看到那里的漫画产业那么兴盛，他十分震惊。并且 两人还定了规矩，去完一家漫画店就去一家饭店。当他看到每个月有那么多期漫画 出版的时候，便会有些茫然，不知道读者是如何做到每期都追的。走在一排排书架 间，欣赏着眼前这些书，马克甚至都想搬到这座纷乱的城市里来。为期十五天的旅 行快要结束的时候，克拉拉抱怨，这里的农贸市场太小，鸡蛋黄的颜色太浅，牛奶 喝起来味道也很奇怪。似乎这位巴黎美食家在纽约唯一喜欢的东西只有咖啡。当 然，和以往一样，她想怎么做他都奉陪。
+
+马克手里拿着钥匙在门外等了一两分钟，他发觉空气中少了咖啡的香味，无论 怎么嗅都嗅不到。他看了看表，现在是十点零三分，和每周五没什么不同。克拉拉 不可能不做咖啡的，也不可能不告诉他一声就因为什么急事出去。克拉拉总会告诉 他。就算他接到临时通知，要离开画廊到别处去，她也总会及时打电话，了解到安 排上的变化。提着蛋糕盒的手，一阵刺痛，他忐忑地把钥匙插进门锁。一进走廊， 就听到了《数字与字母》2的声音。除非有什么十分重要的事，克拉拉从来一期不 落，而且总会和选手一样，在规定时间内根据给出的数字得到想要的结果。马克走 进厨房，期望能看到已把一切抛到脑后的妻子正在那儿纠结于数字问题。然而，克 拉拉正右侧身躺在厨房操作台前，之前抱着的咖啡罐在地上摔得粉碎。现在马克能 闻到香草咖啡的气味了。他泣不成声，两根手指按在妻子纤细无比的手腕上。没有 脉搏了。他摸了摸她优美的颈部。也没有脉搏了。打完必要的电话后，他在妻子身 边躺了下来，呼吸着她留在身后的气息。
+
+四点十分，比巴黎时间早一小时。电话铃响起的时候，菲尔达看着墙上的钟表 笑了起来。压力锅刚开始冒气。她高兴地把火调小，定时二十分钟，这样她就可以
+
+心无杂念地和女儿通话了。欧瑜生活在巴黎，每周五同一时间下班回家前都会给她 打电话。她说一周工作结束后给妈妈打电话，才会有个快乐的周末。她会向菲尔达 问每个人的情况、发生的所有事情，几乎不放过她因为不在而错过的所有细节。她 姑姑好吗，她叔叔好吗，打仗的堂兄弟和好了吗，舅舅还住在那所房子里吗，还是 搬到其他地方去了......她想知道所有的事情。有时她会问街对面熟食店里蜂蜜的价 格，或是家门前的大树有没有修枝，有时又会问菲尔达怎么腌芹菜根。
+
+菲尔达不明白，在巴黎生活了六年的女儿竟会对这里的蜂蜜价格或大树修枝感 兴趣，但她从来不需要女儿解释。能尽可能多地和女儿说说话，她就很高兴了。而 且，这使她感觉，仿佛她们仍住得很近，仍然有相同的喜忧，这对避免她发疯地去 想宝贝女儿很有帮助。女儿总是说着同样的话:“只有三个小时的飞机，想来就来 了，我也可以去伊斯坦布尔啊。只要你愿意，完全可以在这儿吃早饭，回去吃晚 饭。”菲尔达无法对女儿说为什么这样行不通。当妈的永远不会那样做的。她想让 女儿住在楼下或对门，想早晨去她那儿喝杯土耳其咖啡，或为她做点饭，这样女儿 下班累了回家后就什么都不用干了。她帮了儿子儿媳很大的忙，替他们看小孩儿， 为他们做饭。他们只要晚上来这儿，端起盛满饭菜的保鲜盒就可以。由于她的帮 助，儿子一家人从来没有低血糖之类的毛病。然而她永远无法对女儿说这些。如果 说了，真主保佑，女儿可能会因为害怕一辈子受束缚而离她更远。
+
+实际上，她理解为什么欧瑜要搬去欧洲。她第一次去巴黎看女儿的时候，就默 默地想，要是自己出生在那里就好了。那是个美丽的城市。每条道路、每个拐角， 都是一幅画作。交通系统很便捷，走路也很方便。欧瑜带她去了农贸市场，从她母 亲眼里搜寻着认可的目光。菲尔达觉得这些市场也很漂亮。所有地方都像是一部法 国电影，精致而高雅，但这里还是无法替代费纳佑卢的农贸市场。巴黎的农贸市场 只有伊斯坦布尔农贸市场的十分之一，但她无法否认自己着实喜欢这里的奶酪摊。
+
+在看过法国的各种奶酪后，她不得不承认，仅为见识过那些塞浦路斯奶酪、伊兹密 尔图伦奶酪、卡塞里干酪、辫状奶酪就沾沾自喜，显得挺傻的。
+
+在那间狭小的法国厨房里，她做了女儿最喜欢吃的菜——葡萄叶饭卷，欧瑜则 给她秀了几样法式菜肴。菲尔达感谢真主赐给女儿好厨艺。要是她连莳萝和欧芹也 分不清可怎么办呢?她知道很多女孩都那样。每当女儿打电话问她菜谱的问题时， 她总是感觉很骄傲。她跟朋友们讲欧瑜有多喜欢做饭，连最难的菜肴都做。她想对 朋友们说:“她不会是那种做不出饭菜、填不饱丈夫肚子的小娇妻。”但是这话还 是没说出口，因为她也不知道女儿要找的丈夫对此在不在乎。欧瑜看不上土耳其男 人。菲尔达从电影里知道，法国男人的胃口和土耳其男人的一样大，但区别在于， 法国男人自己做饭。他们不认为女人应该包揽所有的家务，这种观念来自于另一种 文化。欧瑜的做饭天赋可要浪费掉了，但是如果女儿真嫁给一个法国男人的话，这 一点最不用她担心了。
+
+菲尔达拿起电话，对每周一次的聊天感到很兴奋。她已盼望许久。 “欧瑜......”  
+ “菲尔达太太?”  
+ “是的，是我。”
+
+“我是西玛，您母亲的邻居。”
+
+西玛既是菲尔达母亲的邻居，又是她的房东，所以菲尔达无法确定这个电话是 关于什么的。几天前她已经汇款交了房租，或许是出了她始料未及的问题，又或许 是房租涨价了而自己忘了这码事?缺少维生素B就会健忘，她很确信这一点。
+
+“对不起，西玛太太。我女儿一般会在这个时间从巴黎给我打长途，所以......抱 歉，有什么事吗?”
+
+“我想您该尽快赶过来。您母亲摔倒了，我想她摔骨折了。我听到了她的叫喊 声，感谢真主，幸好我有她房间的钥匙。我必须得进去，抱歉。已经叫了救护车， 我想车很快就会到的。您应该快点赶过来，或是直接去医院，我也不知道......”
+
+菲尔达边说着马上就到，边挂上电话。关上炉灶后，她冲出了房门。她不停地 自言自语道:“希望不是胯部。”每个人都知道，一个八十二岁的人摔坏胯部意味 着什么。
+
+幸好他们住得很近。当年她弟弟决定结婚并暗示不会搬离和母亲居住多年的房 子时，菲尔达想办法在自己住处附近为母亲租了一间小屋。多亏了这个决定，她须 臾之间就赶了过去，和救护车同时到达。她的母亲，奈斯比太太，总喜欢夸大疼痛 的程度，哪怕只是有一丁点疼。现在她几乎是乐在其中地呻吟着，好让整个世界都 知道。菲尔达知道，自己最害怕的事情终于来了。母亲可能要搬来和他们一起住。 谁知道要住多久呢?她明白，这一生最艰难的日子即将开始。
