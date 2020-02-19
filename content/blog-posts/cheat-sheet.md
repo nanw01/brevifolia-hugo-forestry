@@ -2,7 +2,7 @@
 author = "Nan"
 date = ""
 hero = "/images/c35d6bf83b89b50cdf2c48fa2b49614f.jpg"
-title = "cheat sheet"
+title = "小抄"
 type = "blog"
 
 +++
