@@ -1,8 +1,7 @@
 +++
 author = "Nan"
 date = ""
-draft = true
-hero = ""
+hero = "/images/c35d6bf83b89b50cdf2c48fa2b49614f.jpg"
 title = "cheat sheet"
 type = "blog"
 
