@@ -2,11 +2,11 @@
 author = "Nan"
 date = 2020-12-12T05:00:00Z
 hero = "/images/davisco-5E5N49RWtbA-unsplash.jpg"
-title = "default"
+title = "Merge Sort"
 type = "blog"
 
 +++
-# Merge Sort
+# 
 
     MergeSort(arr[], l,  r)
     If r > l
@@ -18,7 +18,7 @@ type = "blog"
                  Call mergeSort(arr, m+1, r)
          4. Merge the two halves sorted in step 2 and 3:
                  Call merge(arr, l, m, r)
-
+    
     # Python program for implementation of MergeSort
     def mergeSort(arr):
     	if len(arr) > 1:
@@ -80,4 +80,3 @@ type = "blog"
     	printList(arr)
     
     # This code is contributed by Mayank Khanna
-    
