@@ -1,7 +1,6 @@
 +++
 author = "Nan"
 date = 2020-12-12T05:00:00Z
-draft = true
 hero = "/images/davisco-5E5N49RWtbA-unsplash.jpg"
 title = "default"
 type = "blog"
