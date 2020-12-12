@@ -32,4 +32,5 @@ fields:
   label: Hero Image
 pages:
 - content/blog-posts/cheat-sheet.md
+- content/blog-posts/default.md
 - content/blog-posts/geneology-of-morals.md
